@@ -3,10 +3,10 @@ import gdown
 
 # Liste des fichiers à télécharger : {nom_local: ID Google Drive}
 fichiers = {
-    "data_dashboard/data_cs_selon_sexe.csv": "1I2J3K4L5M6N7O8P9",
-    "data_dashboard/data_age_selon_sexe.csv": "1A2B3C4D5E6F7G8H9",
-    "data_dashboard/data_age_population_generale.csv": "1X2Y3Z4W5V6U7T8S9",
-    "data_dashboard/contours_communes.json": "1Q2R3S4T5U6V7W8X9",
+    "data_dashboard/data_cs_selon_sexe.csv": "1SJS2vBHbctlav4nJIWjb-_Rzn9JTiapz",
+    "data_dashboard/data_age_selon_sexe.csv": "1kS-P8P_IyGsZh2MWJpaT_QU-CZ6aTaU8",
+    "data_dashboard/data_age_population_generale.csv": "15Uj6m1aJ08MJusuRWne8KLnaQ5e3Yogi",
+    "data_dashboard/contours_communes.json": "1_iN3XHQWx6CC4l04qc4CDq6ITK4o3BXL",
 }
 
 # Crée le dossier s’il n'existe pas
