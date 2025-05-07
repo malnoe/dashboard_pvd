@@ -1,10 +1,9 @@
 dash
 gdown
-os
 dash-bootstrap-components
 pandas
 geopandas
 plotly
 gdown
-shapely>=2.0
+shapely
 numpy
